@@ -1,14 +1,14 @@
 {
-  "name": "winston",
+  "name": "winston-alphagov",
   "description": "A multi-transport async logging library for Node.js",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "maintainers": [
     "indexzero <charlie@nodejitsu.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/flatiron/winston.git"
+    "url": "https://github.com/alphagov/winston.git"
   },
   "keywords": [
     "logging",
@@ -37,7 +37,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/flatiron/winston/master/LICENSE"
+      "url": "https://raw.github.com/alphagov/winston/master/LICENSE"
     }
   ]
 }
